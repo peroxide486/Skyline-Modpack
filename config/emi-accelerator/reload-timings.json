@@ -1,0 +1,6350 @@
+[
+  {
+    "timestamp": 1782033544977,
+    "reload_number": 1,
+    "total_ms": 1577,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 61
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 11
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Initializing...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 4
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 20
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 404
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 258
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 57
+      },
+      {
+        "name": "Loading plugin from toomanyrecipeviewers",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: createoreexcavation:jei...",
+        "duration_ms": 54
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: createoreexcavation:jei took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: createoreexcavation:jei took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jei:internal took 0ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: createoreexcavation:jei...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jei:internal...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create:jei_plugin took 3ms",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create:jei_plugin took 3ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:aether_jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:aether_jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: farmersdelight:jei_plugin...",
+        "duration_ms": 30
+      },
+      {
+        "name": "[TMRV] registerIngredients: farmersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: farmersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: farmersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: createoreexcavation:jei took 22ms",
+        "duration_ms": 22
+      },
+      {
+        "name": "[TMRV] registerIngredients: createoreexcavation:jei took 22ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: kubejs:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: kubejs:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: kubejs:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: kubejs:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:jei_plugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jei:internal took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerIngredients: jei:internal took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create:jei_plugin took 5ms",
+        "duration_ms": 5
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create:jei_plugin took 5ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: createoreexcavation:jei...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_connected:jei_plugin...",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: createoreexcavation:jei...",
+        "duration_ms": 11
+      },
+      {
+        "name": "[TMRV] registerModInfo: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerModInfo: create:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:minecraft...",
+        "duration_ms": 41
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:minecraft...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:minecraft took 29ms",
+        "duration_ms": 30
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:minecraft took 29ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: farmersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: farmersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: farmersdelight:jei_plugin took 4ms",
+        "duration_ms": 4
+      },
+      {
+        "name": "[TMRV] registerCategories: farmersdelight:jei_plugin took 4ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: createoreexcavation:jei took 9ms",
+        "duration_ms": 9
+      },
+      {
+        "name": "[TMRV] registerCategories: createoreexcavation:jei took 9ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: kubejs:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: kubejs:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: kubejs:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: kubejs:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create:jei_plugin took 39ms",
+        "duration_ms": 39
+      },
+      {
+        "name": "[TMRV] registerCategories: create:jei_plugin took 39ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:jei_plugin took 12ms",
+        "duration_ms": 12
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:jei_plugin took 12ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_central_kitchen:jei took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: create_central_kitchen:jei took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:jei took 3ms",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:jei took 3ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:internal took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:internal took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:minecraft...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:minecraft...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:minecraft took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:minecraft took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: farmersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: farmersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: farmersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: farmersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jade:main took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jade:main took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: kubejs:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: kubejs:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: kubejs:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: kubejs:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: createoreexcavation:jei...",
+        "duration_ms": 4
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jade:main...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_connected:jei_plugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: createoreexcavation:jei...",
+        "duration_ms": 4
+      },
+      {
+        "name": "[TMRV] registerAdvanced: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: createoreexcavation:jei took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerAdvanced: createoreexcavation:jei took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_connected:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_connected:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: createoreexcavation:jei...",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] registerRecipes: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: createoreexcavation:jei took 21ms",
+        "duration_ms": 21
+      },
+      {
+        "name": "[TMRV] registerRecipes: createoreexcavation:jei took 21ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jade:main...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRecipes: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create:jei_plugin took 96ms",
+        "duration_ms": 96
+      },
+      {
+        "name": "[TMRV] registerRecipes: create:jei_plugin took 96ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:jei_plugin took 16ms",
+        "duration_ms": 16
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:jei_plugin took 16ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_central_kitchen:jei took 6ms",
+        "duration_ms": 6
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_central_kitchen:jei took 6ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:jei...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:jei took 20ms",
+        "duration_ms": 19
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:jei took 20ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: createoreexcavation:jei...",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jade:main...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create:jei_plugin took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create:jei_plugin took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: createoreexcavation:jei...",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jade:main took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jade:main took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: createoreexcavation:jei...",
+        "duration_ms": 6
+      },
+      {
+        "name": "[TMRV] registerRuntime: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jade:main...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRuntime: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: createoreexcavation:jei...",
+        "duration_ms": 51
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_connected:jei_plugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Locking JEI Ingredient Registry...",
+        "duration_ms": 4
+      },
+      {
+        "name": "[TMRV] Locking JEI Recipe Registry...",
+        "duration_ms": 2
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 27
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 118
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 53
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 16
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 7
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 6
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 6
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1782033543401
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1782033543409
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1782033543477
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1782033543498
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1782033544763
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1782033544790
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1782033544906
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1782033544907
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1782033544909
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1782033544909
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1782033544961
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1782033544961
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1782033544969
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1782033544975
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1782033544977
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1782033544977
+      }
+    ]
+  },
+  {
+    "timestamp": 1782033859769,
+    "reload_number": 2,
+    "total_ms": 2,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 2
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1782033859767
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1782033859769
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1782033859769
+      }
+    ]
+  },
+  {
+    "timestamp": 1782034575522,
+    "reload_number": 1,
+    "total_ms": 1822,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 84
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 12
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Initializing...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 3
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 19
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 576
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 258
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 82
+      },
+      {
+        "name": "Loading plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jea:jeiplugin...",
+        "duration_ms": 27
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_connected:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_connected:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onConfigManagerAvailable: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jea:jeiplugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jea:jeiplugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jea:jeiplugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_central_kitchen:jei took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_central_kitchen:jei took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerItemSubtypes: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create:jei_plugin took 3ms",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create:jei_plugin took 3ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerFluidSubtypes: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jea:jeiplugin...",
+        "duration_ms": 33
+      },
+      {
+        "name": "[TMRV] registerIngredients: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jea:jeiplugin took 11ms",
+        "duration_ms": 11
+      },
+      {
+        "name": "[TMRV] registerIngredients: jea:jeiplugin took 11ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_connected:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_connected:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: farmersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: farmersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: farmersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: farmersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: kubejs:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: kubejs:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: kubejs:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: kubejs:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: createoreexcavation:jei took 3ms",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] registerIngredients: createoreexcavation:jei took 3ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jade:main...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerIngredients: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredients: jei:internal took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerIngredients: jei:internal took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create:jei_plugin took 4ms",
+        "duration_ms": 4
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create:jei_plugin took 4ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:aether_jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:aether_jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerExtraIngredients: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jea:jeiplugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_dragons_plus:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerIngredientAliases: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jea:jeiplugin...",
+        "duration_ms": 15
+      },
+      {
+        "name": "[TMRV] registerModInfo: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_connected:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_connected:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerModInfo: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:minecraft...",
+        "duration_ms": 19
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:minecraft...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:minecraft took 17ms",
+        "duration_ms": 17
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:minecraft took 17ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jea:jeiplugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jea:jeiplugin took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] registerCategories: jea:jeiplugin took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_connected:jei_plugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: farmersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: farmersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: farmersdelight:jei_plugin took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] registerCategories: farmersdelight:jei_plugin took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: kubejs:jei...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: kubejs:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: kubejs:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: kubejs:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: createoreexcavation:jei took 5ms",
+        "duration_ms": 5
+      },
+      {
+        "name": "[TMRV] registerCategories: createoreexcavation:jei took 5ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jade:main...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: mynethersdelight:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: mynethersdelight:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create:jei_plugin took 40ms",
+        "duration_ms": 40
+      },
+      {
+        "name": "[TMRV] registerCategories: create:jei_plugin took 40ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:jei_plugin took 8ms",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] registerCategories: create_dragons_plus:jei_plugin took 8ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_central_kitchen:jei...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_central_kitchen:jei took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: create_central_kitchen:jei took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:ceia_jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:ceia_jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:jei took 4ms",
+        "duration_ms": 4
+      },
+      {
+        "name": "[TMRV] registerCategories: create_enchantment_industry:jei took 4ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:internal took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerCategories: jei:internal took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:minecraft...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:minecraft...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:minecraft took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:minecraft took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: farmersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: farmersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: farmersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: farmersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: kubejs:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: kubejs:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: kubejs:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: kubejs:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: createoreexcavation:jei took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: createoreexcavation:jei took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerVanillaCategoryExtensions: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jea:jeiplugin...",
+        "duration_ms": 4
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jade:main...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_dragons_plus:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeCatalysts: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jea:jeiplugin...",
+        "duration_ms": 5
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jea:jeiplugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jea:jeiplugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerAdvanced: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jea:jeiplugin...",
+        "duration_ms": 20
+      },
+      {
+        "name": "[TMRV] registerRecipes: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jea:jeiplugin took 21ms",
+        "duration_ms": 21
+      },
+      {
+        "name": "[TMRV] registerRecipes: jea:jeiplugin took 21ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_connected:jei_plugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: createoreexcavation:jei took 7ms",
+        "duration_ms": 7
+      },
+      {
+        "name": "[TMRV] registerRecipes: createoreexcavation:jei took 7ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: mynethersdelight:jei_plugin took 7ms",
+        "duration_ms": 7
+      },
+      {
+        "name": "[TMRV] registerRecipes: mynethersdelight:jei_plugin took 7ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create:jei_plugin took 115ms",
+        "duration_ms": 115
+      },
+      {
+        "name": "[TMRV] registerRecipes: create:jei_plugin took 115ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:aether_jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:aether_jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:jei_plugin took 18ms",
+        "duration_ms": 18
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_dragons_plus:jei_plugin took 18ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_central_kitchen:jei took 8ms",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_central_kitchen:jei took 8ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:jei took 24ms",
+        "duration_ms": 24
+      },
+      {
+        "name": "[TMRV] registerRecipes: create_enchantment_industry:jei took 24ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipes: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jea:jeiplugin...",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jea:jeiplugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jea:jeiplugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create:jei_plugin took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create:jei_plugin took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRecipeTransferHandlers: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jea:jeiplugin...",
+        "duration_ms": 10
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: createoreexcavation:jei took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: createoreexcavation:jei took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create:jei_plugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create:jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create:jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:aether_jei_plugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:aether_jei_plugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerGuiHandlers: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jea:jeiplugin...",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] registerRuntime: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jea:jeiplugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jei:internal...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] registerRuntime: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] registerRuntime: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jea:jeiplugin...",
+        "duration_ms": 46
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jea:jeiplugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jea:jeiplugin took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jea:jeiplugin took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_connected:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_connected:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: createoreexcavation:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: createoreexcavation:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jade:main...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jade:main took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: mynethersdelight:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: mynethersdelight:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:aether_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:aether_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_dragons_plus:jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_central_kitchen:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_central_kitchen:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:ceia_jei_plugin...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:ceia_jei_plugin took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:jei...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: create_enchantment_industry:jei took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jei:internal...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] onRuntimeAvailable: jei:internal took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Locking JEI Ingredient Registry...",
+        "duration_ms": 5
+      },
+      {
+        "name": "[TMRV] Locking JEI Recipe Registry...",
+        "duration_ms": 2
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 26
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 169
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 35
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 18
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 6
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 7
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 7
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1782034573701
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1782034573712
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1782034573801
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1782034573820
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1782034575273
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1782034575300
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1782034575465
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1782034575467
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1782034575469
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1782034575469
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1782034575504
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1782034575504
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1782034575511
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1782034575519
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1782034575522
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1782034575522
+      }
+    ]
+  },
+  {
+    "timestamp": 1782037731786,
+    "reload_number": 2,
+    "total_ms": 2,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 2
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1782037731784
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1782037731786
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1782037731786
+      }
+    ]
+  }
+]
